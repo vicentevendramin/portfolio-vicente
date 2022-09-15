@@ -2,4 +2,4 @@
 
 Repositório utilizado para montar um portfólio ao longo da minha carreira!
 
-[Clique aqui](vicentevendramin.github.io) para acessar o portfólio.
+[Clique aqui](https://vicentevendramin.github.io/) para acessar o portfólio.
